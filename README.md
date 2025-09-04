@@ -3,9 +3,10 @@
 **Languages**  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
-![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white) 
+![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) 
+![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white) 
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) 
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)  
 
