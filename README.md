@@ -19,9 +19,10 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white)  
 
 **ML & Data Science**  
-![scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 
 **Databases**  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) 
